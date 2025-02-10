@@ -57,7 +57,7 @@ Rudraksh Vault represents the fusion of ancient wisdom and modern technology. Fo
 | Harshkumar Parmar | Rambhai Chandavadiya |
 |-------------------|----------------------|
 | Co-founder & Tech Lead | Co-founder & Security Lead |
-| [@harshkumar](https://github.com/harshkumar) | [@rambhai](https://github.com/rambhai) |
+| [@harshkumar](URL) | [@rambhai](URL) |
 | AI & Automation Expert | Cybersecurity Specialist |
 
 </div>
